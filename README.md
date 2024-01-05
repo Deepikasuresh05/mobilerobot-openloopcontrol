@@ -7,46 +7,13 @@ To develop a python control code to move the mobilerobot along the predefined pa
 1. RoboMaster EP core
 2. Python 3.7
 
-## Procedure
+![image](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/38ef73a0-cc27-468d-bc94-36cdb7ca03b8)
 
-Step1:
-
-<br/>
-
-Step2:
-
-<br/>
-
-Step3:
-
-<br/>
-
-Step4:
-
-<br/>
-
-Step5:
-
-<br/>
 
 ## Program
-```python
-from robomaster import robot
-import time
-
-if __name__ == '__main__':
-    ep_robot = robot.Robot()
-    ep_robot.initialize(conn_type="ap")
-
-    ep_chassis = ep_robot.chassis
-
-    ## Write your code here
-
-
-
-    
-    ep_robot.close()
-```
+![image](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/3bbc1056-4bd1-4fe8-bfcf-53ca7c2af1c0)
+![image](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/c692c33a-0b98-4957-9692-f0159b365d21)
+![image](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/a2dc1c49-8ed6-4c74-b7c1-3e57bf7582f2)
 
 ## MobileRobot Movement Image:
 
@@ -54,11 +21,8 @@ if __name__ == '__main__':
 
 Insert image here
 
+![Screenshot 2024-01-05 182124](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/7253b477-0309-4d0a-bfa0-5ee60381d56d)
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## MobileRobot Movement Video:
 
@@ -66,18 +30,11 @@ Upload your video in Youtube and paste your video-id here
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
-<br/>
-<br/>
-<br/>
-<br/>
+![image](https://github.com/Deepikasuresh05/mobilerobot-openloopcontrol/assets/148514509/638fe28e-65ec-450c-8e28-2badfa435038)
+
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
-
-
-<br/>
-<br/>
-
 ```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
